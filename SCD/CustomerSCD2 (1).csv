@@ -1,0 +1,4 @@
+Customer_SK,Cust_id(NK),CustType,Name,Address1,Address2,City,State,Zip,Department,CUSTTYPEID,EffectiveDate,ExpireDate,Version
+80.00,35,US_GOVT,SCD change 1,6979 Quis, Street,Nome,DE,58359,TPCW,F,05/06/2021,05/10/2022,
+86.00,39,COMMERCIAL,SCD change 2,Dept #5,10947 Eagle Street,Lisbon Falls,ME,4252,TPCE,C,05/06/2021,05/10/2022,
+110.00,36,US_GOVT,SCD change 3,Dept #633,11119 Periphery Turnpike,Simpson,LA,71474,TPCE,F,05/06/2021,05/10/2022,

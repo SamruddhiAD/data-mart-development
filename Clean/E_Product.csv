@@ -1,0 +1,101 @@
+Product_ID(NK),DESCRIPTION,PRICE1,PRICE2,UNITCOST,SUPPILERNAME,PRODTYPEID,BUID,TYPEDESCRIPTION,NAME,ABBREV,Department
+86.00,Soya Cleaning Supplies,406.93,345.89,345.89,Specialty Teleconstructors Inc,5.00,B,Cleaning Supplies,Disposable Supplies,Supplies,TPCE
+50.00,Restarts Paper Supplies,524.38,448.34,425.92,Specialty Teleconstructors Inc,6.00,B,Paper Supplies,Disposable Supplies,Supplies,TPCE
+91.00,Scribble Plastic Supplies,492.40,405.74,397.63,Specialty Teleconstructors Inc,7.00,B,Plastic Supplies,Disposable Supplies,Supplies,TPCE
+98.00,Barrels Flushing Chemicals,135.10,116.59,108.43,Specialty Teleconstructors Inc,10.00,C,Flushing Chemicals,Chemicals,Chemicals,TPCE
+22.00,Whippers Covers,488.61,410.43,389.91,Specialty Teleconstructors Inc,13.00,D,Covers,Miscellaneous,MISC,TPCE
+30.00,Detectives Jacks,283.32,248.47,236.05,Specialty Teleconstructors Inc,15.00,D,Jacks,Miscellaneous,MISC,TPCE
+77.00,Vastest Photo Equipment,498.08,442.30,420.19,Sinclair Broadcast Group Inc.,1.00,A,Photo Equipment,Processing Equipment,Equipment,TPCE
+20.00,Flake Photo Equipment,232.26,204.39,194.17,Sinclair Broadcast Group Inc.,1.00,A,Photo Equipment,Processing Equipment,Equipment,TPCE
+65.00,Extinguisher Manufacturing Equipment,120.39,98.36,90.49,Sinclair Broadcast Group Inc.,2.00,A,Manufacturing Equipment,Processing Equipment,Equipment,TPCE
+24.00,Bandage Manufacturing Equipment,298.00,267.01,253.66,Sinclair Broadcast Group Inc.,2.00,A,Manufacturing Equipment,Processing Equipment,Equipment,TPCE
+48.00,Patriarchal Cleaning Supplies,351.54,284.75,264.82,Sinclair Broadcast Group Inc.,5.00,B,Cleaning Supplies,Disposable Supplies,Supplies,TPCE
+57.00,South Tray Supplies,241.30,205.10,203.05,Sinclair Broadcast Group Inc.,8.00,B,Tray Supplies,Disposable Supplies,Supplies,TPCE
+52.00,Identical Freezing Chemicals,578.07,465.92,447.28,Sinclair Broadcast Group Inc.,11.00,C,Freezing Chemicals,Chemicals,Chemicals,TPCE
+75.00,Deferrable Freezing Chemicals,145.03,124.44,113.24,Sinclair Broadcast Group Inc.,11.00,C,Freezing Chemicals,Chemicals,Chemicals,TPCE
+82.00,Numerals Covers,102.87,88.98,83.64,Sinclair Broadcast Group Inc.,13.00,D,Covers,Miscellaneous,MISC,TPCE
+71.00,Simulations Photo Equipment,318.38,255.66,245.43,Black Hills Corporation,1.00,A,Photo Equipment,Processing Equipment,Equipment,TPCE
+32.00,Chartable Photo Equipment,410.17,347.41,312.67,Black Hills Corporation,1.00,A,Photo Equipment,Processing Equipment,Equipment,TPCE
+60.00,Habitually Manufacturing Equipment,509.30,419.15,394.00,Black Hills Corporation,2.00,A,Manufacturing Equipment,Processing Equipment,Equipment,TPCE
+70.00,Escape Manufacturing Equipment,584.38,523.60,507.89,Black Hills Corporation,2.00,A,Manufacturing Equipment,Processing Equipment,Equipment,TPCE
+81.00,Palm Polishing Equipment,122.39,105.38,103.27,Black Hills Corporation,3.00,A,Polishing Equipment,Processing Equipment,Equipment,TPCE
+96.00,Drafty Cleaning Supplies,107.13,92.67,88.96,Black Hills Corporation,5.00,B,Cleaning Supplies,Disposable Supplies,Supplies,TPCE
+97.00,Stickiest Paper Supplies,575.92,502.78,467.59,Black Hills Corporation,6.00,B,Paper Supplies,Disposable Supplies,Supplies,TPCE
+79.00,Siena Plastic Supplies,155.03,136.43,132.34,Black Hills Corporation,7.00,B,Plastic Supplies,Disposable Supplies,Supplies,TPCE
+69.00,Hits Tray Supplies,439.53,359.10,341.14,Black Hills Corporation,8.00,B,Tray Supplies,Disposable Supplies,Supplies,TPCE
+14.00,Engle Photo Chemicals,429.94,346.10,342.64,Black Hills Corporation,9.00,C,Photo Chemicals,Chemicals,Chemicals,TPCE
+62.00,Substances Flushing Chemicals,507.34,409.93,397.63,Black Hills Corporation,10.00,C,Flushing Chemicals,Chemicals,Chemicals,TPCE
+29.00,Bluest Fillers,507.35,428.20,398.23,Black Hills Corporation,12.00,D,Fillers,Miscellaneous,MISC,TPCE
+2.00,Tailor Jacks,509.78,429.74,399.66,Black Hills Corporation,15.00,D,Jacks,Miscellaneous,MISC,TPCE
+37.00,Concentrators Polishing Equipment,584.57,524.94,482.94,Immunex Corporation,3.00,A,Polishing Equipment,Processing Equipment,Equipment,TPCE
+4.00,Embodying Cleaning Supplies,250.91,213.52,207.11,Immunex Corporation,5.00,B,Cleaning Supplies,Disposable Supplies,Supplies,TPCE
+78.00,Measured Photo Chemicals,318.06,270.67,254.43,Immunex Corporation,9.00,C,Photo Chemicals,Chemicals,Chemicals,TPCE
+53.00,Ruffle Freezing Chemicals,476.38,394.92,379.12,Immunex Corporation,11.00,C,Freezing Chemicals,Chemicals,Chemicals,TPCE
+94.00,Beliefs Freezing Chemicals,566.64,483.91,454.88,Immunex Corporation,11.00,C,Freezing Chemicals,Chemicals,Chemicals,TPCE
+85.00,Disallow Manufacturing Equipment,165.24,145.91,144.45,Dollar General Corporation,2.00,A,Manufacturing Equipment,Processing Equipment,Equipment,TPCE
+34.00,Sailors Manufacturing Equipment,340.48,290.43,278.81,Dollar General Corporation,2.00,A,Manufacturing Equipment,Processing Equipment,Equipment,TPCE
+38.00,Syntax Polishing Equipment,226.72,190.90,177.54,Dollar General Corporation,3.00,A,Polishing Equipment,Processing Equipment,Equipment,TPCE
+90.00,Curiouser Cleaning Supplies,419.36,364.42,338.91,Dollar General Corporation,5.00,B,Cleaning Supplies,Disposable Supplies,Supplies,TPCE
+23.00,Decided Tray Supplies,233.30,202.27,198.22,Dollar General Corporation,8.00,B,Tray Supplies,Disposable Supplies,Supplies,TPCE
+99.00,Richards Freezing Chemicals,529.35,475.36,470.61,Dollar General Corporation,11.00,C,Freezing Chemicals,Chemicals,Chemicals,TPCE
+42.00,Carelessly Freezing Chemicals,559.67,467.88,425.77,Dollar General Corporation,11.00,C,Freezing Chemicals,Chemicals,Chemicals,TPCE
+47.00,Significants Freezing Chemicals,141.55,113.24,104.18,Dollar General Corporation,11.00,C,Freezing Chemicals,Chemicals,Chemicals,TPCE
+64.00,Berwick Fillers,583.85,487.51,463.13,Dollar General Corporation,12.00,D,Fillers,Miscellaneous,MISC,TPCE
+74.00,Flanker Fillers,271.44,236.15,219.62,Dollar General Corporation,12.00,D,Fillers,Miscellaneous,MISC,TPCE
+11.00,Sulkiness Covers,354.30,289.82,272.43,Dollar General Corporation,13.00,D,Covers,Miscellaneous,MISC,TPCE
+16.00,Enhanced Covers,460.96,384.44,361.37,Dollar General Corporation,13.00,D,Covers,Miscellaneous,MISC,TPCE
+76.00,Scrounge Jacks,301.58,251.22,248.71,Dollar General Corporation,15.00,D,Jacks,Miscellaneous,MISC,TPCE
+45.00,Slacking Jacks,495.04,399.99,387.99,Dollar General Corporation,15.00,D,Jacks,Miscellaneous,MISC,TPCE
+61.00,Courthouses Manufacturing Equipment,285.62,243.63,231.45,First Bancshares Inc Mo,2.00,A,Manufacturing Equipment,Processing Equipment,Equipment,TPCE
+87.00,Suing Manufacturing Equipment,482.16,426.71,401.11,First Bancshares Inc Mo,2.00,A,Manufacturing Equipment,Processing Equipment,Equipment,TPCE
+6.00,Planetesimal Manufacturing Equipment,347.28,307.00,285.51,First Bancshares Inc Mo,2.00,A,Manufacturing Equipment,Processing Equipment,Equipment,TPCE
+40.00,Insensitivity Manufacturing Equipment,200.71,180.44,169.61,First Bancshares Inc Mo,2.00,A,Manufacturing Equipment,Processing Equipment,Equipment,TPCE
+44.00,Birthdays Manufacturing Equipment,196.56,173.17,161.05,First Bancshares Inc Mo,2.00,A,Manufacturing Equipment,Processing Equipment,Equipment,TPCE
+93.00,Bellowing Polishing Equipment,502.57,451.31,446.80,First Bancshares Inc Mo,3.00,A,Polishing Equipment,Processing Equipment,Equipment,TPCE
+21.00,Denigrating Polishing Equipment,565.95,454.46,427.19,First Bancshares Inc Mo,3.00,A,Polishing Equipment,Processing Equipment,Equipment,TPCE
+46.00,Distantly Paper Supplies,518.49,436.05,418.61,First Bancshares Inc Mo,6.00,B,Paper Supplies,Disposable Supplies,Supplies,TPCE
+55.00,Bumblers Plastic Supplies,545.31,466.24,447.59,First Bancshares Inc Mo,7.00,B,Plastic Supplies,Disposable Supplies,Supplies,TPCE
+33.00,Consumable Tray Supplies,395.70,347.42,337.00,First Bancshares Inc Mo,8.00,B,Tray Supplies,Disposable Supplies,Supplies,TPCE
+19.00,Hesitating Jacks,124.46,100.07,96.07,First Bancshares Inc Mo,15.00,D,Jacks,Miscellaneous,MISC,TPCE
+67.00,Occlusion Manufacturing Equipment,199.88,177.29,164.88,Afg Industries Inc.,2.00,A,Manufacturing Equipment,Processing Equipment,Equipment,TPCE
+63.00,Weeks Polishing Equipment,198.83,174.18,168.95,Afg Industries Inc.,3.00,A,Polishing Equipment,Processing Equipment,Equipment,TPCE
+68.00,Loaves Polishing Equipment,425.59,361.33,354.10,Afg Industries Inc.,3.00,A,Polishing Equipment,Processing Equipment,Equipment,TPCE
+95.00,Duplicator Polishing Equipment,544.28,465.36,432.78,Afg Industries Inc.,3.00,A,Polishing Equipment,Processing Equipment,Equipment,TPCE
+84.00,Unjust Paper Supplies,222.48,182.21,176.74,Afg Industries Inc.,6.00,B,Paper Supplies,Disposable Supplies,Supplies,TPCE
+59.00,Tonnage Plastic Supplies,368.75,315.65,309.34,Afg Industries Inc.,7.00,B,Plastic Supplies,Disposable Supplies,Supplies,TPCE
+39.00,Overlays Plastic Supplies,301.08,254.41,241.69,Afg Industries Inc.,7.00,B,Plastic Supplies,Disposable Supplies,Supplies,TPCE
+92.00,Behind Tray Supplies,166.65,138.99,129.26,Afg Industries Inc.,8.00,B,Tray Supplies,Disposable Supplies,Supplies,TPCE
+54.00,Honeymoon Photo Chemicals,326.13,292.21,271.76,Afg Industries Inc.,9.00,C,Photo Chemicals,Chemicals,Chemicals,TPCE
+49.00,Visage Flushing Chemicals,567.75,507.57,466.96,Afg Industries Inc.,10.00,C,Flushing Chemicals,Chemicals,Chemicals,TPCE
+9.00,Millimeters Flushing Chemicals,295.56,251.82,241.75,Afg Industries Inc.,10.00,C,Flushing Chemicals,Chemicals,Chemicals,TPCE
+28.00,Wonderingly Covers,547.21,467.32,453.30,Afg Industries Inc.,13.00,D,Covers,Miscellaneous,MISC,TPCE
+43.00,Blazed Covers,495.00,416.79,404.29,Afg Industries Inc.,13.00,D,Covers,Miscellaneous,MISC,TPCE
+73.00,Cosgrove Jacks,298.87,267.79,254.40,Afg Industries Inc.,15.00,D,Jacks,Miscellaneous,MISC,TPCE
+36.00,Bomber Photo Equipment,461.34,400.44,380.42,American General Ventures Inc,1.00,A,Photo Equipment,Processing Equipment,Equipment,TPCE
+100.00,Pervasively Manufacturing Equipment,374.14,334.86,308.07,American General Ventures Inc,2.00,A,Manufacturing Equipment,Processing Equipment,Equipment,TPCE
+18.00,Miniaturizing Manufacturing Equipment,456.24,379.59,353.02,American General Ventures Inc,2.00,A,Manufacturing Equipment,Processing Equipment,Equipment,TPCE
+56.00,Allis Polishing Equipment,201.77,176.35,160.48,American General Ventures Inc,3.00,A,Polishing Equipment,Processing Equipment,Equipment,TPCE
+1.00,Enumerator Polishing Equipment,164.97,142.53,135.40,American General Ventures Inc,3.00,A,Polishing Equipment,Processing Equipment,Equipment,TPCE
+25.00,Chalmers Polishing Equipment,289.17,242.61,223.20,American General Ventures Inc,3.00,A,Polishing Equipment,Processing Equipment,Equipment,TPCE
+17.00,Optima Cleaning Supplies,288.41,255.53,242.75,American General Ventures Inc,5.00,B,Cleaning Supplies,Disposable Supplies,Supplies,TPCE
+10.00,Defeated Tray Supplies,559.74,476.90,448.29,American General Ventures Inc,8.00,B,Tray Supplies,Disposable Supplies,Supplies,TPCE
+41.00,Consideration Tray Supplies,172.56,146.85,139.51,American General Ventures Inc,8.00,B,Tray Supplies,Disposable Supplies,Supplies,TPCE
+12.00,Travelings Photo Chemicals,274.39,242.01,225.07,American General Ventures Inc,9.00,C,Photo Chemicals,Chemicals,Chemicals,TPCE
+5.00,Automobiles Fillers,283.83,227.63,218.52,American General Ventures Inc,12.00,D,Fillers,Miscellaneous,MISC,TPCE
+35.00,Chromium Photo Equipment,565.50,457.49,425.47,Fedders Corporation,1.00,A,Photo Equipment,Processing Equipment,Equipment,TPCE
+8.00,Septembers Manufacturing Equipment,584.33,522.98,517.75,Fedders Corporation,2.00,A,Manufacturing Equipment,Processing Equipment,Equipment,TPCE
+58.00,Characterization Plastic Supplies,231.68,185.58,168.88,Fedders Corporation,7.00,B,Plastic Supplies,Disposable Supplies,Supplies,TPCE
+80.00,Temporally Plastic Supplies,477.53,408.29,371.54,Fedders Corporation,7.00,B,Plastic Supplies,Disposable Supplies,Supplies,TPCE
+72.00,Anthem Tray Supplies,134.92,112.39,109.02,Fedders Corporation,8.00,B,Tray Supplies,Disposable Supplies,Supplies,TPCE
+66.00,Exemplar Freezing Chemicals,198.40,160.90,152.85,Fedders Corporation,11.00,C,Freezing Chemicals,Chemicals,Chemicals,TPCE
+7.00,Commendation Fillers,436.33,380.04,364.84,Fedders Corporation,12.00,D,Fillers,Miscellaneous,MISC,TPCE
+15.00,Disposed Fillers,158.84,138.03,132.51,Fedders Corporation,12.00,D,Fillers,Miscellaneous,MISC,TPCE
+3.00,Sortie Covers,248.21,213.21,206.81,Fedders Corporation,13.00,D,Covers,Miscellaneous,MISC,TPCE
+13.00,Coward Covers,429.79,348.99,328.05,Fedders Corporation,13.00,D,Covers,Miscellaneous,MISC,TPCE
+51.00,Reflection Lifts,497.85,447.57,438.62,Fedders Corporation,14.00,D,Lifts,Miscellaneous,MISC,TPCE
+26.00,Subclasses Polishing Equipment,282.51,239.00,236.61,Saurer Gruppe Holding Ag,3.00,A,Polishing Equipment,Processing Equipment,Equipment,TPCE
+89.00,Travel Paper Supplies,129.85,108.81,103.37,Saurer Gruppe Holding Ag,6.00,B,Paper Supplies,Disposable Supplies,Supplies,TPCE
+27.00,Pinnings Plastic Supplies,337.17,302.44,287.32,Saurer Gruppe Holding Ag,7.00,B,Plastic Supplies,Disposable Supplies,Supplies,TPCE
+88.00,Vestiges Tray Supplies,231.45,192.10,186.34,Saurer Gruppe Holding Ag,8.00,B,Tray Supplies,Disposable Supplies,Supplies,TPCE
+31.00,Simplifier Tray Supplies,408.81,349.12,328.17,Saurer Gruppe Holding Ag,8.00,B,Tray Supplies,Disposable Supplies,Supplies,TPCE
+83.00,Horses Lifts,487.30,402.51,366.28,Saurer Gruppe Holding Ag,14.00,D,Lifts,Miscellaneous,MISC,TPCE
